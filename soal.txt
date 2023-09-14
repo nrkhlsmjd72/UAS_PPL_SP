@@ -1,0 +1,36 @@
+Nama:Nurkholis Majid
+NPM:20312075
+Kode Soal: A(Ganjil)
+
+1. Sistem apa yang anda kembangkan?
+Jawab:
+Sistem yang saya kembangkan adalah sebuah platform web untuk memesan makanan secara online dan melakukan pembayaran elektronik di kantin sekolah SMA XYZ.
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:
+a. Antrian panjang di kantin yang mengganggu siswa dan menghabiskan waktu istirahat.
+b. Pembayaran tunai yang memperlambat proses transaksi di kantin.
+c. Keterbatasan waktu untuk mengambil makanan dan makan selama istirahat.
+d. Kesiapan infrastruktur IT yang belum memadai di sekolah.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:
+a. Mengembangkan platform web yang memungkinkan siswa dan guru memesan makanan secara online sebelum istirahat, sehingga mereka dapat langsung mengambil pesanannya tanpa harus mengantri.
+b. Menyediakan sistem pembayaran elektronik yang memungkinkan siswa dan guru membayar pesanan mereka secara cashless, mengurangi waktu yang dibutuhkan untuk pembayaran.
+c. Mengintegrasikan sistem dengan database menu dan stok kantin sehingga siswa dapat melihat menu yang tersedia dan mengecek ketersediaan makanan sebelum memesan.
+d. Memastikan bahwa sistem dapat diakses dengan mudah melalui perangkat yang ada di sekolah, bahkan dengan infrastruktur IT yang terbatas.
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:
+a. Meningkatkan efisiensi waktu siswa dan guru, karena mereka dapat memesan makanan sebelumnya dan langsung mengambilnya tanpa harus mengantri.
+b. Mengurangi antrian di kantin, sehingga mengurangi kebingungan dan kehabisan waktu.
+c. Memberikan pengalaman bertransaksi yang lebih baik dengan kemudahan pembayaran elektronik.
+d. Meningkatkan pengawasan dan pengelolaan stok makanan di kantin dengan sistem yang terintegrasi.
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:
+a. Waktu terbatas untuk mengembangkan sistem karena harus selesai pada tahun ajaran baru.
+b. Anggaran dana yang terbatas untuk biaya hosting dan domain.
+c. Keterbatasan infrastruktur IT di sekolah dapat menghambat implementasi dan penggunaan sistem.
+d. Perlu mengatasi potensi masalah keamanan data siswa dan guru yang melakukan transaksi online.
+e. Proses pelatihan siswa, guru, dan staf kantin dalam penggunaan sistem baru.
